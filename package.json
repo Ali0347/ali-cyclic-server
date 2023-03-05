@@ -17,10 +17,6 @@
   },
   "homepage": "https://github.com/Ali0347/ali-cyclic-server#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "mongoose": "^6.8.0",
-    "nodemon": "^2.0.20"
+    "express": "^4.18.2"
   }
 }
